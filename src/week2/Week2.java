@@ -13,6 +13,8 @@ public class Week2 {
     /**
      * @param args the command line arguments
      */
+    //salut tout le monde
+    //c'est moi, Himmat
     public static void main(String[] args) {
         System.out.println("Hi");
         //commit again
